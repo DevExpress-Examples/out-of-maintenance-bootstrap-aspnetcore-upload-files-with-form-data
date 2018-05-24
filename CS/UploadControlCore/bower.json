@@ -1,0 +1,11 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "jquery": "3.2.1",
+    "popper.js":  "v1.12.9",
+    "bootstrap": "v4.0.0",
+    "jquery-validation": "1.14.0",
+    "jquery-validation-unobtrusive": "3.2.6"
+  }
+}
